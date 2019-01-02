@@ -5,6 +5,7 @@ draft: false
 ---
 
 <h3 class="major">1. room (classic furniture)</h3>
+{{< cld src="_DSF1505_small.jpg" class="image main" >}}
 {{< figure class="image main" src="/images/_DSF1505_small.jpg" >}}
 {{< figure class="image main" src="/images/_DSF1520_small.jpg" >}}
 

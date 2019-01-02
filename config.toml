@@ -3,6 +3,7 @@ title = "Welcome to Sibiu"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+cloudinary_url = "cloudinary://694435668688477:LRk56EVF9Q9NtWlk8FRjHFqoN5Q@casa-roth"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
