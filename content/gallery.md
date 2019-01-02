@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 date: 2019-01-01T18:52:02+01:00
-draft: true
+draft: false
 ---
 
 <h3 class="major">1. room (classic furniture)</h3>

@@ -2,7 +2,7 @@
 title: "Contact"
 weight: 40
 date: 2018-12-31T18:41:18+01:00
-draft: true
+draft: false
 ---
 
 <form method="post" action="#">
