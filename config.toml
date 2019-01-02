@@ -1,0 +1,29 @@
+baseurl = "http://casa-roth.de"
+title = "Welcome to Sibiu"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = ''
+  logoimage = "/images/tulpe.png"
+  copyright = "Casa Roth"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Willkommen"
+description = ''
+
+[languages.ro]
+languageName = "Rumänisch"
+weight = 3
+title = "Bine ati venit"
+description = ''
